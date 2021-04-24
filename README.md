@@ -11,3 +11,9 @@ Neste projeto utilizamos coisas como:
 
 ## Screenshots
 
+<div>
+<img alt="Splash screen" src=".github/splash.png">
+<img alt="Home screen" src=".github/home.png">
+<img alt="Question screen" src=".github/question.png">
+<img alt="Congratulations screen" src=".github/congratulations.png">
+</div>
